@@ -1,0 +1,17 @@
+.panel {
+    margin-bottom: 5px!important;
+    border-radius: inherit!important;
+}
+
+.panel-heading {
+    padding: 5px 15px 5px 15px!important;
+    color: #0E0E6E!important;
+    background-color: inherit!important;
+    border-color: inherit!important;
+    border-bottom: none!important;
+    font-size: 12px!important;
+}
+
+.panel-body {
+    padding: 5px 15px!important;
+}

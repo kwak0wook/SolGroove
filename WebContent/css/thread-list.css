@@ -1,0 +1,14 @@
+hr {
+    margin-top: 5px!important;
+    margin-bottom: 5px!important;
+}
+
+.thread-item {
+    margin-top: 5px!important;
+}
+
+.pagination>.active>a {
+    background-color: #383A3F!important;
+    border-color: #383A3F!important;
+    color: white!important;
+}
